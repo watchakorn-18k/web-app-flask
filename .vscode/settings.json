@@ -1,0 +1,16 @@
+{
+    "github.codespaces.defaultExtensions": [
+        "ms-python.python",
+        "PKief.material-icon-theme"
+    ],
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "off",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "workbench.iconTheme": "material-icon-theme"
+}
