@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(21, 20, 18);
+}
+
+.text-red {
+    color: red;
+}
+
+.text-orange {
+    color: rgb(239, 128, 10);
+}
+
+#text-orange {
+    color: orange;
+}
